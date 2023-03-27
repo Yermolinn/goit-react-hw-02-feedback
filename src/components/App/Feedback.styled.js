@@ -8,7 +8,6 @@ const Container = styled.div`
 
 const Title = styled.div`
   margin-bottom: 16px;
-  font-size: 20px;
   font-weight: 900;
   text-align: center;
   text-transform: uppercase;

@@ -1,7 +1,7 @@
 import styled from '@emotion/styled';
 
 const Container = styled.div`
-  width: 320px;
+  width: 400px;
   padding: 20px 20px;
   margin: 0 auto;
 `;
@@ -28,7 +28,7 @@ const FeedbackButton = styled.button`
   cursor: pointer;
   &:hover,
   &:focus {
-    background-color: tomato;
+    background-color: green;
     color: white;
   }
 `;
